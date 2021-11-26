@@ -6,7 +6,8 @@
   "scripts": {
     "dev": "nodemon app.js",
     "run": "node app.js",
-    "tsbuild": "tsc app.ts"
+    "tsbuild": "tsc app.ts",
+    "tswatch": "tsc app.ts -w"
   },
   "keywords": [],
   "author": "",
